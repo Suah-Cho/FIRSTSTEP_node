@@ -1,0 +1,15 @@
+{
+  "name": "firststep_node",
+  "version": "1.0.0",
+  "description": "한걸음 대여소 node 백엔드 레포지터리입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
